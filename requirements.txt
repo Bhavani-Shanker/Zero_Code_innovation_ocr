@@ -7,7 +7,6 @@ Pillow
 paddleocr
 paddlepaddle
 numpy
-mycolorpy
 streamlit_option_menu
 PIL 
 re
