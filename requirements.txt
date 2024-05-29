@@ -1,6 +1,5 @@
-opencv-python
 streamlit==1.32.0
-opencv-python-headless==4.5.4
+opencv-python==4.5.4
 numpy==1.26.4
 paddleocr==2.7.3
 PIL==10.3.0
